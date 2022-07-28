@@ -12,6 +12,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 cd kodluyoruz ilk repo
+
 code .
 
 ## Contributing
