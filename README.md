@@ -4,7 +4,6 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) React Native ile Mobile App e�
 
 ![image](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
-
 ## Installation
 
 Öncelikle projeyi clonelayın.
@@ -19,7 +18,6 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
-
 ## Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmak istediğinizi tartışmak için bir konu açınız.
 
