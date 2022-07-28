@@ -11,7 +11,6 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) React Native ile Mobile App e�
 ```bash
 git clone https://github.com/nergiskuzucu/kodluyoruzilkrepo.git
 ```
-
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
